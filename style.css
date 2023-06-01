@@ -1,0 +1,28 @@
+.sectionone {
+    display: flex;
+    border-style: solid;
+    border-color: red;
+}
+
+.header {
+    display: flex;
+    width: 100%;
+    border-style: solid;
+    border-color: blue;
+    justify-content: space-between;
+}
+
+.navbar {
+    display: flex;
+    border-style: solid;
+    border-color: green;
+}
+
+/* gap property sets the gap between rows and between columns */
+
+.navul {
+    display: flex;
+    gap: 50px;
+    border-style: solid;
+    border-color: yellow;
+}
