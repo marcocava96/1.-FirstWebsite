@@ -1,3 +1,5 @@
+/* set sectionone width using proportions/percentage */
+
 .sectionone {
     display: flex;
     border-style: solid;
